@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "GetDeliveryDate",
+      "slots": [
+        {
+          "name": "Retailer",
+          "type": "LIST_OF_RETAILERS"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "narwhal",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "narvar"
+  ],
+  "author": "Aaron Stein",
+  "license": "none",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "alexa-sdk": "^1.0.6",
+    "babelify-es6-polyfill": "^1.0.4",
+    "base64url": "^2.0.0",
+    "jsonwebtoken": "^7.2.1",
+    "jwt-decode": "^2.1.0",
+    "jwt-simple": "^0.5.1",
+    "request": "^2.79.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.7.19",
+    "babelify-es6-polyfill": "^1.0.4",
+    "jwt-decode": "^2.1.0",
+    "request": "^2.79.0"
+  }
+}

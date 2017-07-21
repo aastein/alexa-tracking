@@ -1,0 +1,21 @@
+GetDeliveryDate when will my package arrive
+GetDeliveryDate when will my package be delivered
+GetDeliveryDate when will my package get delivered
+GetDeliveryDate when will my package get here
+GetDeliveryDate when does my package arrive
+GetDeliveryDate when does my package get here
+GetDeliveryDate when's my package arrive
+GetDeliveryDate when's my package get here
+GetDeliveryDate when will my package from {Retailer} arrive
+GetDeliveryDate when does my package from {Retailer} arrive
+GetDeliveryDate when's my package from {Retailer} arrive
+GetDeliveryDate when will my package from {Retailer} get here
+GetDeliveryDate when does my package from {Retailer} get here
+GetDeliveryDate when's my package from {Retailer} get here
+GetDeliveryDate when will my next package arrive
+GetDeliveryDate when will my next package arrive from {Retailer}
+GetDeliveryDate when will my last package arrive
+GetDeliveryDate when will my last package arrive from {Retailer}
+GetDeliveryDate will my package from {Retailer} arrive before {Date}
+GetDeliveryDate when was my package delivered
+GetDeliveryDate when was my package from {Retailer} delivered
