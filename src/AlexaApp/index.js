@@ -50,9 +50,9 @@ const languageStrings = {
 
 // Constants to get users email account
 const googleTokenURL = 'https://www.googleapis.com/oauth2/v4/token';
-const googleClientID = '1041548616141-0tn6n1pqc57iu8qkr95sj3ulrj2b2h3g.apps.googleusercontent.com';
-const googleClientSecret = 'MPstW-RPkgqBRRXEqCbdCu7N';
-const googleAPIKey = 'AIzaSyA1J0SJAuuMUE2yBxOI5yvfJhTi6fSibko';
+const googleClientID = '';
+const googleClientSecret = '';
+const googleAPIKey = '';
 const googleURLShortnerURL = 'https://www.googleapis.com/urlshortener/v1/url';
 
 // URL for google OAuth, separated by the state parameter used to pass users phone number. Phone number is used as foreign key to link amazon device and email
