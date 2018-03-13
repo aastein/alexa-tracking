@@ -11,10 +11,10 @@ AWS.config.update({
 
 // Google API variables
 const tokenURL = 'https://www.googleapis.com/oauth2/v4/token';
-const client_id = '1041548616141-0tn6n1pqc57iu8qkr95sj3ulrj2b2h3g.apps.googleusercontent.com';
-const client_secret = 'MPstW-RPkgqBRRXEqCbdCu7N';
+const client_id = '';
+const client_secret = '';
 const grant_type = 'authorization_code';
-const redirect_uri =  'https://k8j9ih1dea.execute-api.us-east-1.amazonaws.com/prod/putGmailKey';
+const redirect_uri =  '';
 
 let code = '';
 let phoneNumber = '';
